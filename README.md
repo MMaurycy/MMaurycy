@@ -33,6 +33,6 @@ Oto technologie, z którymi pracuję:
 
 ## 📫 Jak się ze mną skontaktować?
 
-* **Email:** [mar.przybylski@o2.pl]
+* **Email:** mar.przybylski@o2.pl
 
 Dziękuję za odwiedzenie mojego profilu!
