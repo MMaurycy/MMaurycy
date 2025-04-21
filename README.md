@@ -8,7 +8,7 @@ Posiadam solidne podstawy w zakresie analizy danych, zarządzania bazami danych 
 
 ## 🎓 Aktualnie
 
-* Jestem w trakcie realizacji **pracy inżynierskiej** dotyczącej rozwiązania **Problemu Optymalnego Rozsadzenia Gości Weselnych** (Wedding Seating Problem). W projekcie wykorzystuję algorytmy **kolorowania grafów**.
+* Jestem w trakcie realizacji **pracy inżynierskiej** dotyczącej rozwiązania **Problemu Optymalnego Rozsadzenia Gości Weselnych** (Wedding Seating Problem). W projekcie wykorzystuję algorytmy **kolorowania grafów** (projekt realizowany w repozytorium "wsp").
 * Stale poszerzam swoją wiedzę i umiejętności w dynamicznie rozwijającej się dziedzinie danych.
 
 ## 🌱 Zainteresowania i Rozwój
