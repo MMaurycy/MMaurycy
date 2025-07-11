@@ -35,5 +35,6 @@ Oto technologie, z którymi pracuję:
 ## 📫 Jak się ze mną skontaktować?
 
 * **Email:** mar.przybylski@o2.pl
+* **Business Email:** marcin.przybylski@toyota-ce.com
 
 Dziękuję za odwiedzenie mojego profilu!
