@@ -101,14 +101,13 @@ dodatkowo:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcinprzybylski&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcinprzybylski&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MMaurycy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MMaurycy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcinprzybylski&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMaurycy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="48%" />
 
 </div>
 
-> ⚠️ **Uwaga:** podmień `marcinprzybylski` na swój prawdziwy login GitHub, żeby statystyki się wyświetliły.
 
 <br>
 
