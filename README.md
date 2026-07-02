@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Marcin+Przybylski;In%C5%BCynieria+i+Analiza+Danych;Data+%2B+ML+%2B+SQL+%2B+Linux;3+rok+%7C+Politechnika+Rzeszowska" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcinprzybylski&label=PROFILE%20VIEWS&color=00FF41&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MMaurycy&label=PROFILE%20VIEWS&color=00FF41&style=flat-square)
 ![Status](https://img.shields.io/badge/status-online-00FF41?style=flat-square&logo=statuspage&logoColor=black)
 ![Uptime](https://img.shields.io/badge/uptime-3%20lata-00FF41?style=flat-square)
 
