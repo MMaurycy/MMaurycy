@@ -120,7 +120,6 @@ $ ping marcin_przybylski --contact
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-mar.przybylski@o2.pl-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:mar.przybylski@o2.pl)
-[![Business Email](https://img.shields.io/badge/-marcin.przybylski@toyota--ce.com-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41)](mailto:marcin.przybylski@toyota-ce.com)
 
 </div>
 
