@@ -127,7 +127,6 @@ latex       ██████░░░░
 
 </div>
 
-> ⚠️ Podmień `MMaurycy` na swój login GitHub w linkach powyżej, żeby dane się wygenerowały.
 
 <br>
 
